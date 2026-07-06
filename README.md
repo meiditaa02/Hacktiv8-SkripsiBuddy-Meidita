@@ -8,9 +8,9 @@ Dibuat sebagai final project untuk program **AI Productivity and AI API Integrat
 
 ## ✨ Fitur
 
-- 💬 Chat real-time dengan Gemini AI (bukan chatbot statis/hardcoded)
-- 📚 Bantu menyusun struktur bab skripsi (BAB I - V)
-- ✍️ Saran parafrase kalimat akademik
+- 💬 Chat real-time dengan Gemini AI 
+- 📚 Bantu menyusun struktur bab skripsi 
+- ✍️ Saran parafrase kalimat 
 - 🧠 Penjelasan istilah dan konsep metodologi penelitian
 - 🤗 Respons suportif saat mahasiswa curhat capek atau stuck
 - 🎨 Tampilan bertema notebook 
@@ -75,5 +75,5 @@ chatbot/
 
 ## 👩‍💻 Dibuat oleh
 
-**Meidita** — Mahasiswa Sistem Informasi, Institut Bisnis dan Informatika Kesatuan (IBIK)
-Program: AI Productivity and AI API Integration for Developers — Hacktiv8
+**Meidita** Mahasiswa Sistem Informasi, Institut Bisnis dan Informatika Kesatuan (IBIK)
+Program: Hacktiv8 - AI Productivity and AI API Integration for Developers 
