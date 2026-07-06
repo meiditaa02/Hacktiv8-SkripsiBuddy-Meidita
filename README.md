@@ -75,5 +75,6 @@ chatbot/
 
 ## 👩‍💻 Dibuat oleh
 
-**Meidita** Mahasiswa Sistem Informasi, Institut Bisnis dan Informatika Kesatuan (IBIK)
+**Meidita** - Mahasiswa Sistem Informasi, Institut Bisnis dan Informatika Kesatuan (IBIK)
+
 Program: Hacktiv8 - AI Productivity and AI API Integration for Developers 
